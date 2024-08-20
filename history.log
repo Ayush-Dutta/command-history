@@ -211,3 +211,67 @@
   211  cd ..
   212  cd AD2
   213  history>history.log
+  214  VAGRANT --VERSION
+  215  vagrant --version
+  216  cd d:
+  217  cd AD
+  218  ls
+  219  cd DevOps/
+  220  ls
+  221  mkdir GitServer
+  222  cd GitServer
+  223  vagrant init
+  224  ls
+  225* vi init 
+  226  vagrant init ubuntu/jammy64
+  227  ls -a
+  228  rm -rf Vagrantfile 
+  229  rm -rf .vagrant/
+  230  ls -a
+  231  vagrant init ubuntu/jammy64
+  232  vi Vagrantfile 
+  233  vagrant up
+  234  vagrant --status
+  235  vagrant status
+  236  uname
+  237  uname -r
+  238  vagrant ssh
+  239  vagrant halt
+  240  vagrant status
+  241  cd ..
+  242  ls
+  243  cd Jenkins
+  244  vagrant init
+  245  vagrant init ubuntu/jammy64
+  246  vi Vagrantfile 
+  247  vagrant up
+  248  vi Vagrantfile 
+  249  ls
+  250  vagrant up ubuntu/jammy64
+  251  l
+  252  ls
+  253  ls -a
+  254  rm -irf Va*
+  255  ls -a
+  256  rm -irf .V
+  257  ls -a
+  258  rm -irf .vagrant/
+  259  ls -a
+  260  vagrant init ubuntu/jammy64
+  261  vagrant up
+  262  vagrant ssh
+  263  vagrant halt
+  264  history
+  265  history>hist.log
+  266  history>history.log
+  267  cd ..
+  268  cd ..
+  269  history>history.log
+  270  cd d:
+  271  history>history.log
+  272  cd AD2
+  273  history>history.log
+  274  history > history.log
+  275  history >> history.log
+  276  history
+  277  history > history.log
