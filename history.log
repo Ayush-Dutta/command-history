@@ -1,0 +1,213 @@
+    1  ls
+    2  git config -1
+    3  git config -l
+    4  git -v
+    5  cd D:
+    6  git init AD
+    7  ls
+    8  cd AD
+    9  ls -a
+   10  git config user.name ="AYUSH DUTTA
+   11  git config user.name ="AYUSH DUTTA"
+   12  git config -l
+   13  git config --global
+   14  git config --global user.email="ayushdutta2512@gmail.com"
+   15  git config -l
+   16  git config --global user.email ="ayushdutta2512@gmail.com"
+   17  git config -l
+   18  git config --global -l
+   19  git status
+   20  vi test.c
+   21  git add test.c
+   22  git status
+   23  git  commit -m "first commit"
+   24  git status
+   25  git log 
+   26  git checkout master
+   27  git log --all
+   28  git branch
+   29  vi test.c
+   30  git status
+   31  git checkout Java
+   32  git branch JAVA
+   33  git checkout Java
+   34  git log --oneline
+   35  history
+   36  git checkout master
+   37  git add test.c
+   38  git status
+   39  git  commit -m "second commit"
+   40  git log --oneline
+   41  git revertrt 04539d5
+   42  git --help
+   43  git revert 04539d5
+   44  git status
+   45  git branch
+   46  git checkout JAVA
+   47  git branch
+   48  exit
+   49  ls
+   50  cd D:
+   51  ls
+   52  cd AD
+   53  git revert 04539d5
+   54  history
+   55  git log --oneline
+   56  git revert a028097
+   57  cd ..
+   58  rm -r AD
+   59  pwd
+   60  rm -rf AD
+   61  ls
+   62  history
+   63  git init AD
+   64  cd AD
+   65  git branch python
+   66  git checkout -b python
+   67  vi first.py
+   68  ls
+   69  vi first.py
+   70  git status
+   71  git add first.py
+   72  git commit -m "first commit"
+   73  git log --oneline
+   74  git remote add origin https://github.com/Ayush-Dutta/DevOps.git
+   75  git push
+   76  git push --force origin python
+   77  ls
+   78  cd ..
+   79  ls
+   80  cd AD
+   81  cd AD2
+   82  git clone https://github.com/Ayush-Dutta/DevOps.git --single-python
+   83  cd D:
+   84  ls
+   85  cd AD
+   86  ls
+   87  exit
+   88  cd d:
+   89  ls
+   90  cd CSBS_049
+   91  ls
+   92  cd..
+   93  cd ..
+   94  cd AD
+   95  history
+   96  git log --online
+   97  cd..
+   98  cd ..
+   99  git init AD2
+  100  cd AD2
+  101  git branch python
+  102  git branch python
+  103  git branch
+  104  git checkout python
+  105  git branch python
+  106  git status
+  107  ls -a
+  108  git clone https://github.com/Ayush-Dutta/DevOps2.git
+  109  ls
+  110  cd DevOps2
+  111  git branch python
+  112  git log --online
+  113  ls
+  114  git checkout python
+  115  vi hw.py
+  116  git log --online
+  117  git log --oneline
+  118  git add hw.py
+  119  git commit -m"first push"
+  120  git push
+  121  git remote add origin https://github.com/Ayush-Dutta/DevOps2.git
+  122  git fetch origin
+  123  git remote add origin https://github.com/Ayush-Dutta/DevOps2.git
+  124  git origin
+  125  git config --get remote.origin.url~
+  126  git config --get remote.origin.url
+  127  git remote add origin https://github.com/Ayush-Dutta/DevOps.git
+  128  git config --get remote.origin.url
+  129  git push --force python
+  130  git branch
+  131  git status
+  132  ls -a
+  133  git log
+  134  git log --oneline
+  135  git push --force
+  136  git push --force origin python
+  137  cd ..
+  138  git pull https://github.com/Ayush-Dutta/DevOps3.git
+  139  git pull https://github.com/Ayush-Dutta/DevOps3.git
+  140  cd DevOps2
+  141  git checkout master
+  142  git log --oneline
+  143  git checkout main
+  144  git pull origin python
+  145  git log --oneline
+  146  ls
+  147  git push
+  148  git status
+  149  git remote -v
+  150  clear
+  151  ls -a
+  152  git branch
+  153  git checkout python
+  154  git status
+  155  cat trial.txt
+  156  cat >> trial.txt
+  157  cat trial.txt
+  158  git status
+  159  git add trial.txt 
+  160  git commit -m "Pushing .txt"
+  161  git push python
+  162  git push
+  163  git push origin python
+  164  rm -rf hw.py
+  165  ls -a
+  166  rm -rf README.md
+  167  ls -a
+  168  git push origin python
+  169  git status
+  170  vi hw.py
+  171  git log --oneline
+  172  git revert 8d5cd9d
+  173  ls -a
+  174  git log --oneline
+  175  git revert 7c23b56
+  176  ls -a
+  177  history
+  178  vi test.py
+  179  git add test.py
+  180  git commit -m "first"
+  181  vi test.py
+  182  git add test.py
+  183  git commit -m "second"
+  184  vi test.py
+  185  git add test.py
+  186  git commit -m "third"
+  187  git log --oneline
+  188  git revert f2aeef7
+  189  git log --oneline
+  190  git revert --abort
+  191  git log --oneline
+  192  vi test.py
+  193  git revert f2aeef7
+  194  git add test.py
+  195  git revert --continue
+  196  ls
+  197  git revert --abort
+  198  git log --oneline
+  199  vi test.py
+  200  vi test.py
+  201  vi test.py
+  202  git revert f2aeef7
+  203  git revert --abort
+  204  cd ..
+  205  exit
+  206  history
+  207  d:
+  208  cd d:
+  209  ls
+  210  cd AD
+  211  cd ..
+  212  cd AD2
+  213  history>history.log
